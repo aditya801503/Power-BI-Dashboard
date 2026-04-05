@@ -1,5 +1,5 @@
 # Power-BI-Dashboard
-# 📊 Microsoft Sales Performance Dashboard (Power BI)
+# 📊 Mobile Sales Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
 This Power BI dashboard provides a detailed analysis of Microsoft’s sales performance.  
